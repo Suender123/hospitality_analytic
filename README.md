@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospitality Revenue Intelligence
 
 This project is an end-to-end data analytics pipeline and interactive Streamlit dashboard built for the hospitality industry. It takes raw, disconnected operational data—such as bookings, stays, guest profiles, and reviews—and transforms it into a clean, unified dataset to extract actionable business insights.
@@ -62,3 +63,7 @@ To verify the pipeline logic, you can run the included test suite:
 ```bash
 python -m unittest discover -s tests -v
 ```
+=======
+# hospitality_analytic
+An end-to-end data analytics pipeline and interactive Streamlit dashboard that transforms raw hospitality data into actionable revenue and profitability insights.
+>>>>>>> 478631f435c52ac5c574bcb670f91a2c65595b7d
